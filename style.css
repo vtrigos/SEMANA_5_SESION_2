@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.box {
+    width:  400px;
+    height: 400px;
+    padding: 40px 10px 15px 30px;
+    background-color: blue;
+    border: 10px solid black;
+
+}
+
+.azul {
+    background-color: blue;
+    margin-bottom: 10px;
+
+}
+
+.verde{
+    background-color: green;
+    margin-top: 100px;
+}
+
+/*en este ejm prevalece 100px a 10 px*/
+

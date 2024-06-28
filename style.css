@@ -2,6 +2,26 @@
     box-sizing: border-box;
 }
 
+body {
+    min-height: 200vh;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
 .box {
     width:  400px;
     height: 400px;

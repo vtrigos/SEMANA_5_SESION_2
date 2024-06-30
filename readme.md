@@ -21,7 +21,7 @@ El tema de colapsado es cuando 2 valores verticales adyacentes se cruzan o sobre
 
 Especifica donde posicionar un elemento en cualquier parte de nuestra web.
 
-- Position Relative: Inicialmente mantiene sus dimensiones y se desplaza usando propiedades de posicionamiento para mover distancias pequeñas y da contexto a absolute. 
+- Position Relative: Conserva las dimensiones originales y se desplaza usando propiedades de posicionamiento para mover distancias pequeñas o da contexto a absolute. 
 - Position Absolute: No conserva dimensiones originales y depende de un elemento padre es decir el espacio (universo) donde se va a desplazar si no lo hubiera, se relaciona con el body.
 - Position Fixed: Posiciona un elemento de forma fija siempre en la web, no se desplaza con el contenido de la página y no depende de nadie.
 - Position Sticky: Parecido a fixed es decir fija un elemento la diferencia es que si permite desplazamiento hasta un limite establecido.
